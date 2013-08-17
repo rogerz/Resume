@@ -1,73 +1,74 @@
-# Nathaniel Welch
+# Rogerz Zhang
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+ * <rogerz.zhang@gmail.com>
 
 ## Background
 
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for mankind. 
+I am a programmer ethustic to apply new technology, method and tools in traditional industry. I hold the belief that technology will change the way people live and make work more interesting.
 
-I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+I love open source development and am eager to contribute to project which have been used in my work. I am quick learner of new programming language and able to get into existing project in a short time.
 
-## Education
+This is a collection of projects I have been working on. You may find more information of my career on LinkedIn.
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+## Own projects
 
-## Proficiency
+### [jquery-serialize-inputs](https://github.com/rogerz/jquery-serialize-inputs)
 
-I have been writing code, running servers and experimenting with new software since 2002. Most recently the majority of code I have written has been in Java, Ruby, Javascript and Bash, but I have experience in C, Python, SML/NJ, C++, SQL and F#.
+* jQuery plugin to serialize all named inputs to object
 
-## Experience
+### [youtube-play-next](https://github.com/rogerz/youtube-play-next)
 
-### Open Source Developer
+* Chrome extension for modifying the playlist
 
-I currently am a contributor to the open source project [fog](http://fog.io).
+### [yaffs2Lib](https://github.com/rogerz/yaffs2Lib)
 
-### Google.com, San Francisco, CA
+* porting of flash file system yaffs2 on VxWorks
 
-#### Site Reliability Engineer - April 2012 to Present
+### [vim2ansi](http://www.vim.org/scripts/script.php?script_id=1127)
 
-I work as an SRE for Google Compute Engine and Google Cloud Storage.
+Converting highlighted text to ansi color control sequence for BBS
 
-#### Software Engineer - August 2011 to September 2012
+### other projects
 
-As a Software Engineer at Google, I worked on Punchd, Google Offers and Google Local.
+* A portable configurator for embedded devices based on html pages and json data store
+* A simple CRM system based on django
 
-### Punchd, Mountain View, CA
+## Involvement in projects
 
-#### Software Developer - May 2011 to July 2011
+### [jansson](https://github.com/akheron/jansson/commits?author=rogerz)
 
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. Once at Google I continued to maintain Punchd's servers, backend API and web frontend. I also helped implement a version of Punchd built on Google's infrastructure, but it was never released.
+* create project for building under windows
+* extend API to support loading from callback
 
-### iFixit.com, San Luis Obispo CA
+### [rt-thread](https://github.com/RT-Thread/rt-thread/commits?author=rogerz)
 
-#### Software Developer - April 2009 to April 2011
+* add continous integration for project based on by travis-ci
+* member of RT-Thread organization
 
-I wore a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I wrote code mainly in PHP and Bash, and helped maintain our fleet of servers on Amazon's EC2 Service. 
+### [ART](https://github.com/RT-Thread/ART/commits?author=rogerz)
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
+* port arduino library to ART platform
+* repository maintenance
 
-<!--
-### Adobe Systems Incorporated, San Francisco CA
+### [rtthread-manual-doc](https://github.com/RT-Thread/rtthread-manual-doc/commits?author=rogerz)
 
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
+* rake task for publishing on github pages
+* automatic publishing based on travis-ci
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems - including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
--->
+### [sourcenavigator](https://github.com/rogerz/sourcenavigator)
 
-### BSA Camp Oljato, Lakeshore CA
+* add enhancement of instant fuzzy search
 
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
+### [progit](https://github.com/progit/progit/commits?author=rogerz)
 
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks per summer.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others to children ages ten to eighteen.
+* translator of Chapter 6 of the book ProGit into Chinese
 
+### [vxLuaGlue](https://github.com/rogerz/vxLuaGlue)
+
+* use lua as the shell extension in an Ethernet switch product based on VxWorks
+
+### [other project](https://github.com/rogerz)
+
+* bug fix of uffs
+* bug fix of mongo-express
+* bug fix of underscore-cli
