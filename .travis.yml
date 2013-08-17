@@ -1,0 +1,25 @@
+language: ruby
+
+rvm: 1.9.3
+
+install:
+  - bundle install
+
+before_script:
+  - export GIT_CRED=~/.gitcred
+  - git config --global user.name "Rogerz Zhang"
+  - git config --global user.email "rogerz.zhang@gmail.com"
+  - git config --global credential.helper "store --file=$GIT_CRED"
+  - echo https://$GH_TOKEN:@github.com > $GIT_CRED
+  - ssh-keyscan -H github.com >> ~/.ssh/known_hosts
+
+script:
+
+  - rake
+
+after_script:
+  - rm $GIT_CRED
+
+env:
+  global:
+    - secure: BJ7vC0pdZRExlxw7Nlm8G2D+v/V7R6yjCY0bk8U1SptwsslshcpiHzwyCTQhWhsNcjiFu3yjqSJWaEQA5F+x72WFyyJh8+3X9J0CgLynh4m0DHohLCGZMLHTwH7UNCCzquiF+5t5/lsRgPBINPqF0VpgCKG4loKpEv03KzryTPY=

@@ -26,7 +26,7 @@ This is a collection of projects I have been working on. You may find more infor
 
 ### [vim2ansi](http://www.vim.org/scripts/script.php?script_id=1127)
 
-Converting highlighted text to ansi color control sequence for BBS
+* converting highlighted text to ansi color control sequence for BBS
 
 ### other projects
 
