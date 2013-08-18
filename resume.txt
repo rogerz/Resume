@@ -1,6 +1,7 @@
 # Rogerz Zhang
 
- * <rogerz.zhang@gmail.com>
+ * Email: <rogerz.zhang@gmail.com>
+ * Github: [rogerz](https://github.com/rogerz)
 
 ## Background
 
