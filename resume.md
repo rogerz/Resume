@@ -5,7 +5,7 @@
 
 ## Background
 
-I am a programmer ethustic to apply new technology, method and tools in traditional industry. I hold the belief that technology will change the way people live and make work more interesting.
+I am a programmer with enthusiasm to apply new technology, method and tools in traditional industry. I hold the belief that technology will change the way people live and make work more interesting.
 
 I love open source development and am eager to contribute to project which have been used in my work. I am quick learner of new programming language and able to get into existing project in a short time.
 
@@ -38,35 +38,35 @@ This is a collection of projects I have been working on. You may find more infor
 
 ### [jansson](https://github.com/akheron/jansson/commits?author=rogerz)
 
-* create project for building under windows
-* extend API to support loading from callback
+* Create project for building under windows
+* Extend API to support loading from callback
 
 ### [rt-thread](https://github.com/RT-Thread/rt-thread/commits?author=rogerz)
 
-* add continous integration for project based on by travis-ci
-* member of RT-Thread organization
+* Add continuous integration for project based on by travis-ci
+* Member of RT-Thread organization
 
 ### [ART](https://github.com/RT-Thread/ART/commits?author=rogerz)
 
-* port arduino library to ART platform
-* repository maintenance
+* Port arduino library to ART platform
+* Repository maintenance
 
 ### [rtthread-manual-doc](https://github.com/RT-Thread/rtthread-manual-doc/commits?author=rogerz)
 
-* rake task for publishing on github pages
-* automatic publishing based on travis-ci
+* Rake task for publishing on github pages
+* Automatic publishing based on travis-ci
 
 ### [sourcenavigator](https://github.com/rogerz/sourcenavigator)
 
-* add enhancement of instant fuzzy search
+* Add enhancement of instant fuzzy search
 
 ### [progit](https://github.com/progit/progit/commits?author=rogerz)
 
-* translator of Chapter 6 of the book ProGit into Chinese
+* Translator of Chapter 6 of the book ProGit into Chinese
 
 ### [vxLuaGlue](https://github.com/rogerz/vxLuaGlue)
 
-* use lua as the shell extension in an Ethernet switch product based on VxWorks
+* Use lua as the shell extension in an Ethernet switch product based on VxWorks
 
 ### [other project](https://github.com/rogerz)
 
