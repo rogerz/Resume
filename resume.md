@@ -27,7 +27,7 @@ This is a collection of projects I have been working on. You may find more infor
 
 ### [vim2ansi](http://www.vim.org/scripts/script.php?script_id=1127)
 
-* converting highlighted text to ansi color control sequence for BBS
+* VIM plugin to convert highlighted text to ansi color control sequence for BBS
 
 ### other projects
 
@@ -38,33 +38,47 @@ This is a collection of projects I have been working on. You may find more infor
 
 ### [jansson](https://github.com/akheron/jansson/commits?author=rogerz)
 
+C library for encoding, decoding and manipulating JSON data
+
 * Create project for building under windows
 * Extend API to support loading from callback
 
 ### [rt-thread](https://github.com/RT-Thread/rt-thread/commits?author=rogerz)
+
+Open source real-time operating system for embedded devices.
 
 * Add continuous integration for project based on by travis-ci
 * Member of RT-Thread organization
 
 ### [ART](https://github.com/RT-Thread/ART/commits?author=rogerz)
 
+An ardruino like board with RT-Thread operating system
+
 * Port arduino library to ART platform
 * Repository maintenance
 
 ### [rtthread-manual-doc](https://github.com/RT-Thread/rtthread-manual-doc/commits?author=rogerz)
+
+Developer manual of rt-thread
 
 * Rake task for publishing on github pages
 * Automatic publishing based on travis-ci
 
 ### [sourcenavigator](https://github.com/rogerz/sourcenavigator)
 
+A source code analysis tool written in Tcl/Tk
+
 * Add enhancement of instant fuzzy search
 
 ### [progit](https://github.com/progit/progit/commits?author=rogerz)
 
+A book about Git
+
 * Translator of Chapter 6 of the book ProGit into Chinese
 
 ### [vxLuaGlue](https://github.com/rogerz/vxLuaGlue)
+
+A simple glue layer between VxWorks and the Lua scripting engine.
 
 * Use lua as the shell extension in an Ethernet switch product based on VxWorks
 
