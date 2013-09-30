@@ -11,30 +11,36 @@ I love open source development and am eager to contribute to project which have 
 
 This is a collection of projects I have been working on. You may find more information of my career on LinkedIn.
 
-## Own projects
+## Projects
+
+Applications created by myself when I could not found an existing solution for my purpose.
 
 ### [jquery-serialize-inputs](https://github.com/rogerz/jquery-serialize-inputs)
 
 * jQuery plugin to serialize all named inputs to object
+* Created for a device configuration tool to process the form data
 
 ### [youtube-play-next](https://github.com/rogerz/youtube-play-next)
 
-* Chrome extension for modifying the playlist
+* Chrome extension for sort the related playlist by video name
+* When I was attending the online AI course provided by [coursera](https://www.coursera.org/), the videos were unsorted, so...
 
 ### [yaffs2Lib](https://github.com/rogerz/yaffs2Lib)
 
-* porting of flash file system yaffs2 on VxWorks
+* Porting of flash file system yaffs2 on VxWorks
+* More reliable storage of configuration files for embedded device
 
 ### [vim2ansi](http://www.vim.org/scripts/script.php?script_id=1127)
 
 * VIM plugin to convert highlighted text to ansi color control sequence for BBS
+* I used it to beautify code snippet to be post on BBS
 
 ### other projects
 
 * A portable configurator for embedded devices based on html pages and json data store
 * A simple CRM system based on django
 
-## Involvement in projects
+## Contributions
 
 ### [jansson](https://github.com/akheron/jansson/commits?author=rogerz)
 
